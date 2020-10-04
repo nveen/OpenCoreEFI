@@ -4,11 +4,11 @@ OpenCore EFI
 EFI Folder for OpenCore Bootloader.
 Created with the help of [OpenCore Vanilla Desktop Guide](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/)
 
-<img src="https://github.com/nveen/OpenCoreEFI/blob/master/Docs/screenshots/info.png" width="640" height="360"/>
+<img src="https://github.com/nveen/OpenCoreEFI/blob/master/Docs/screenshots/pic.png"/>
 
 ### Software Versions
 
-- macOS Catalina 10.15.6 (19G73)
+- macOS Catalina 10.15.7 (19H2)
 - OpenCore [0.6.1](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.1)
 
 ### System Components
